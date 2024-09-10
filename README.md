@@ -30,13 +30,8 @@ pip install sqlalchemy tkinter
 
 
 ## Como Rodar o Projeto
+   Clone o repositório para sua máquina local
 
-1. **Clone o Repositório**:
-   Clone o repositório para sua máquina local:
+   cd nome-do-repositorio
 
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-
-cd nome-do-repositorio
-
-python biblioteca.py
+   python biblioteca.py
