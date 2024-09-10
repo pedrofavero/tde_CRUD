@@ -25,9 +25,9 @@ Certifique-se de que você tem as seguintes dependências instaladas:
 - **Python 3.x**: Para rodar o código.
 - **Bibliotecas Python**: Instale as bibliotecas necessárias usando o comando abaixo:
 
-```bash
 pip install sqlalchemy tkinter
 
+```bash
 
 ## Como Rodar o Projeto
    Clone o repositório para sua máquina local
