@@ -27,3 +27,16 @@ Certifique-se de que você tem as seguintes dependências instaladas:
 
 ```bash
 pip install sqlalchemy tkinter
+
+
+## Como Rodar o Projeto
+
+1. **Clone o Repositório**:
+   Clone o repositório para sua máquina local:
+
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+cd nome-do-repositorio
+
+python biblioteca.py
